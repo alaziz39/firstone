@@ -373,5 +373,6 @@ const Shohagh={
     bus:'Shohagh',
     bCode:'SH',
     ticket:[],
+    price:[]
 }
 const book= greenLine.book;
