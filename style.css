@@ -1,0 +1,16 @@
+button, #form input [type='submit']{
+    color: rgb(224, 224, 229);
+    background-color: red;
+    padding: 20px 40px;
+    font-size: 25px;
+    border-radius: 10px;
+    border: 0cm;
+    transition: 2s;
+    cursor: pointer;
+}
+body{
+    text-align: center;
+}
+button:hover {
+    background-color: blueviolet;
+}
